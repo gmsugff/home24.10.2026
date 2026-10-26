@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiniGallery</string>
+
+
+    <string name="title_gallery">Города</string>
+    <string name="button_prev">Назад</string>
+    <string name="button_next">Вперёд</string>
+    <string name="button_load">Загрузить из интернета</string>
+    <string name="hint_url">Введите URL картинки</string>
+    <string name="caption_1">Город 1</string>
+    <string name="caption_2">Город 2</string>
+    <string name="caption_3">Город 3</string>
+    <string name="error_empty_url">Введите адрес</string>
+    <string name="status_ready">Готово</string>
+</resources>
